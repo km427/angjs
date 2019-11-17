@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9937eb5d-f024-4935-b8e6-566c67896732" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TPaVZb0k4H9FXOid8gkAxOIABl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/mani_python/Django/blogproject" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="angular_login" type="Python.DjangoServer" factoryName="Django server">
+      <module name="angular_login" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="angular_login.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9937eb5d-f024-4935-b8e6-566c67896732" name="Default Changelist" comment="" />
+      <created>1573364208307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573364208307</updated>
+      <workItem from="1573364209717" duration="1084000" />
+      <workItem from="1573368505789" duration="1830000" />
+      <workItem from="1573370433015" duration="887000" />
+      <workItem from="1573374006755" duration="134000" />
+      <workItem from="1573383218839" duration="1296000" />
+      <workItem from="1573456871834" duration="1572000" />
+      <workItem from="1573458498427" duration="1527000" />
+      <workItem from="1573463445276" duration="1792000" />
+      <workItem from="1573465258709" duration="1790000" />
+      <workItem from="1573467069224" duration="1916000" />
+      <workItem from="1573471919444" duration="1924000" />
+      <workItem from="1573473867753" duration="683000" />
+      <workItem from="1573486700861" duration="1408000" />
+      <workItem from="1573490470955" duration="1576000" />
+      <workItem from="1573492070071" duration="455000" />
+      <workItem from="1573536579860" duration="1614000" />
+      <workItem from="1573538631003" duration="1945000" />
+      <workItem from="1573540630223" duration="1769000" />
+      <workItem from="1573542433299" duration="1784000" />
+      <workItem from="1573544246250" duration="1985000" />
+      <workItem from="1573550965057" duration="594000" />
+      <workItem from="1573558025880" duration="1788000" />
+      <workItem from="1573559841072" duration="1078000" />
+      <workItem from="1573560962416" duration="686000" />
+      <workItem from="1573561718914" duration="292000" />
+      <workItem from="1573816458245" duration="670000" />
+      <workItem from="1573817700208" duration="969000" />
+      <workItem from="1573819588704" duration="936000" />
+      <workItem from="1573920909456" duration="1733000" />
+      <workItem from="1573922785211" duration="2236000" />
+      <workItem from="1573969639658" duration="1732000" />
+      <workItem from="1573971411791" duration="1779000" />
+      <workItem from="1573973222825" duration="1789000" />
+      <workItem from="1573975041699" duration="1792000" />
+      <workItem from="1573976856803" duration="1797000" />
+      <workItem from="1573978676427" duration="1993000" />
+      <workItem from="1573982473530" duration="1677000" />
+      <workItem from="1573990528792" duration="1776000" />
+      <workItem from="1573992341962" duration="1786000" />
+      <workItem from="1573994153700" duration="1814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
